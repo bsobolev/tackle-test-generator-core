@@ -44,17 +44,17 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.crawljax.crawljax</groupId>
+      <groupId>com.github.bsobolev.crawljax</groupId>
       <artifactId>crawljax-core</artifactId>
       <version>${crawljax.version}</version>
     </dependency>
     <dependency>
-      <groupId>com.github.crawljax.crawljax</groupId>
+      <groupId>com.github.bsobolev.crawljax</groupId>
       <artifactId>crawloverview-plugin</artifactId>
       <version>${crawljax.version}</version>
     </dependency>
     <dependency>
-      <groupId>com.github.crawljax.crawljax</groupId>
+      <groupId>com.github.bsobolev.crawljax</groupId>
       <artifactId>testcasegenerator</artifactId>
       <version>${crawljax.version}</version>
     </dependency>
